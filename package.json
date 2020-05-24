@@ -1,0 +1,16 @@
+{
+  "name": "polar-syntax",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "A clean and vivid light syntax theme.",
+  "keywords": [
+    "syntax",
+    "theme",
+    "light"
+  ],
+  "repository": "https://github.com/nightminnow/polar-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
